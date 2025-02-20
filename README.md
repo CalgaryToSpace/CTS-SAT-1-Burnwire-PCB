@@ -11,14 +11,15 @@ This project involved designing a compact, reliable, and efficient burnwire syst
 </p>
   
 ## ⊹ Contributors
-Brett 
-Tristain 
-Lara Musa
+Ebube Anachebe<br>
+Brett Margo<br>
+Tristain <br>
+Lara Musa <br>
 
 ## Hopefully in the Future
-I'm hoping to take another look at the trace width measurments,
-review the mechanical structure,
-and consukt someone on the footproints
+I'm hoping to take another look at the trace width measurments,<br>
+review the mechanical structure,<br>
+and consukt someone on the footproints<br>
 
 
 ## License
