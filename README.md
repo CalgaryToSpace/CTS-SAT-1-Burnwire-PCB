@@ -8,7 +8,7 @@ This project involved designing a compact, reliable, and efficient burnwire syst
 <img src="images/3dRendering1.png" width="500"/>
 <img src="images/3dRendering2.png" width="500"/>
 <img src="images/PCB_Design.png" width="500"/>
-<\p>
+</p>
   
 ## ⊹ Contributors
 Brett 
