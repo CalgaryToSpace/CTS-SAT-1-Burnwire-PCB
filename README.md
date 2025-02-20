@@ -13,7 +13,7 @@ This project involved designing a compact, reliable, and efficient burnwire syst
 ## ⊹ Contributors
 Ebube Anachebe<br>
 Brett Margo<br>
-Tristain <br>
+Tristain Payne<br>
 Lara Musa <br>
 
 ## Hopefully in the Future
